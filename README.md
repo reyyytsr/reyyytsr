@@ -67,5 +67,5 @@
 ---
 
 <p align="center">
-  Contact me for more information
+  📞Contact me for more information📞
 </p>
