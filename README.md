@@ -50,7 +50,7 @@
 
 ### 📌 Highlight Projects
 
-- 🔒 [SAFE - Anti Fraud Web App](https://github.com/rayrockers2309) – Fraud Detection & Sentiment Analysis for Finance (LapisAI)
+- 🔒 [SAFE - Anti Fraud Web App]([https://www.safenetindo.site]) – Fraud Detection & Sentiment Analysis for Finance (LapisAI)
 - 📱 SustainWise – Android budgeting app powered by **TensorFlow Lite** & Firebase (Bangkit 2024)
 - 🎬 Reyalphix Movies – Movie database app using TMDB API (Kotlin)
 - 🎶 Q Music – Online music player with integrated playlist & search
@@ -67,5 +67,5 @@
 ---
 
 <p align="center">
-  Made with ❤️ by Rayhan
+  Contact me for more information
 </p>
