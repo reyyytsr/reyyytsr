@@ -3,10 +3,10 @@
   🌐 Software Engineer | Android & Web Developer | UI/UX Enthusiast  
 </p>
 <p align="center">
-  <a href="mailto:rayrockers2309@gmail.com">📧 Email</a> • 
+  <a href="mailto:reyytsr@gmail.com">📧 reyytsr@gmail.com</a> • 
   <a href="https://www.linkedin.com/in/rayhan-alfarizi-3a4901247/">🔗 LinkedIn</a> • 
-  <a href="https://github.com/rayrockers2309">💻 GitHub</a> • 
-  <a href="https://instagram.com/reiii.tsr">📷 Instagram</a>
+  <a href="https://github.com/reyyytsr">💻 My 1st Github</a> • 
+  <a href="https://instagram.com/reiii.tsr">📷 Instagram</a> 
 </p>
 
 ---
@@ -51,16 +51,16 @@
 ### 📌 Highlight Projects
 
 - 🔒 [SAFE - Anti Fraud Web App]((https://www.safenetindo.site)) – Fraud Detection & Sentiment Analysis for Finance (LapisAI)
-- 📱 SustainWise – Android budgeting app powered by **TensorFlow Lite** & Firebase (Bangkit 2024)
+- 📱 SustainWise – Android budgeting app (Bangkit 2024)
 - 🎬 Reyalphix Movies – Movie database app
 - 🎶 Q Music – Online music player with integrated playlist & search
-- 🌐 TravelyWeb – Fullstack Laravel-based web for travel services
+- 🌐 Q Travel – web for travel services
 
 ---
 
 ### ☕ Let's Connect!
 
-- 📩 rayrockers2309@gmail.com
+- 📩 reyyytsr@gmail.com
 - 📸 [Instagram @reiii.tsr](https://instagram.com/reiii.tsr)
 - 💼 [LinkedIn](https://linkedin.com/in/rayhan-alfarizi-3a4901247/)
 
